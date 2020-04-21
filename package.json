@@ -1,0 +1,16 @@
+{
+  "name": "el-temple-torre-fantasma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://GuilleHM.github.io/eltemple",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
