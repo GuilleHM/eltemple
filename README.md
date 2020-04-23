@@ -1,5 +1,4 @@
-# eltemple
-El Temple Landing Page
+# El temple
 
 Página de inicio adaptativa (responsive landing page) de un sitio web que he creado para la práctica de html5, css3 (incluyendo media queries y keyframes) y javascript.
 
